@@ -1,2 +1,4 @@
 # app90s.github.io
-Aplikasi Simulasi Tes Kepribadian
+
+Aplikasi Simulasi Tes (Simtes) Kepribadian.
+
